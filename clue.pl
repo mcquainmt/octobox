@@ -7,7 +7,7 @@ $guess = "";
 $count = 0;
 
 @characters = qw{
-	Mustard
+	Mustardo
 	White
 	Plum
 	Peacock
